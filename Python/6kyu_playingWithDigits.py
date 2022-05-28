@@ -21,7 +21,7 @@
 
 def dig_pow(n, p):
     sum = 0
-    for i in list(str(n)):
+    for i in str(n):
         sum += pow(int(i), p)
         p+=1
 
