@@ -1,4 +1,4 @@
-# * Enunciado do problema *
+# * Problem Statement * #
 
 # Some numbers have funny properties. For example:
 #
@@ -30,8 +30,8 @@ def dig_pow(n, p):
     else:
         return -1
 
-    # ↓ - Faz mesma função que a linha acima
+    # has the same function as the code block of code above ↑
+
     # sum = 0
     # for i,number in enumerate(str(n)): ← usando o "enumerate" conseguimos percorrer a lista e receber a posição e valor dela juntas
     #   sum += pow(int(number),p+i)
-print(dig_pow(46288 , 3))

@@ -1,4 +1,4 @@
-# * Enunciado do problema * #
+# * Problem Statement * #
 
 # Count the number of Duplicates
 # Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. 
@@ -22,5 +22,3 @@ def duplicate_count(text):
             result.append(i)
     
     return len(set(result)) # Nem precisaria mais do set(result)
-    
-print(duplicate_count("abcdeaB"))

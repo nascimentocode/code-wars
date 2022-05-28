@@ -1,4 +1,4 @@
-# * Enunciado do problema *
+# * Problem Statement * #
 
 # Given an array of integers, find the one that appears an odd number of times.
 #
@@ -15,7 +15,7 @@ def find_it(seq):
     for i in seq:
         if seq.count(i)%2!=0:
             return i
-    # ↓ - Faz mesma função que a linha acima
+    # has the same function as the code block of code above ↑
 
     # listOddInt = []
     # for i in range(len(seq)):
@@ -29,6 +29,3 @@ def find_it(seq):
     #
     # for i in set(listOddInt):
     #     return i
-
-print(find_it([1, 2, 3, 3, 1, 1, 2, 2]))
-
