@@ -26,4 +26,3 @@
 # consecutive strings : follow one after another without an interruption
 
 def longest_consec(strarr, k):
-    return 0
