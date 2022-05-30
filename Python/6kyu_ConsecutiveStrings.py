@@ -6,7 +6,6 @@
 # strarr = ["tree", "foling", "trashy", "blue", "abcdef", "uvwxyz"], k = 2
 #
 # Concatenate the consecutive strings of strarr by 2, we get:
-#
 # treefoling   (length 10)  concatenation of strarr[0] and strarr[1]
 # folingtrashy ("      12)  concatenation of strarr[1] and strarr[2]
 # trashyblue   ("      10)  concatenation of strarr[2] and strarr[3]
@@ -26,3 +25,4 @@
 # consecutive strings : follow one after another without an interruption
 
 def longest_consec(strarr, k):
+    return 0
