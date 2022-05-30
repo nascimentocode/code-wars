@@ -21,4 +21,4 @@ def likes(names):
     elif lenNames >= 4:
         return f"{names[0]}, {names[1]} and {len(names[2:])} others like this" 
     else:
-        return "no one likes this"  
+        return "no one likes this"

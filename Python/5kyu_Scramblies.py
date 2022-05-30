@@ -12,4 +12,4 @@
 # scramble('katas', 'steak') ==> False
 
 def scramble(s1, s2):
-    return 0
+    pass
