@@ -1,5 +1,3 @@
-# * Problem Statement * #
-
 # Complete the function scramble(str1, str2) that returns true if a portion of str1 characters can be rearranged to match str2, otherwise returns false.
 #
 # Notes:
@@ -12,4 +10,10 @@
 # scramble('katas', 'steak') ==> False
 
 def scramble(s1, s2):
-    pass
+    for i in s2:
+        if i not in s1 or s2.count(i) > s1.count(i):
+            return False
+    
+    return True
+
+print(scramble('cedewaraaossoqqyt', 'codewars'))
