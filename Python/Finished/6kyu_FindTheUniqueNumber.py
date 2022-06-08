@@ -7,9 +7,7 @@
 # The tests contain some very huge arrays, so think about performance.
 
 def find_uniq(arr):
-    smaller = arr[0]
-    for i in arr:
-        if arr.count(i) <  arr.count(smaller):
-            smaller = i
-    
-    return smaller
+    arrSet = set(arr)
+    for n in arrSet:
+        if arr.count(n) == 1:
+            return n

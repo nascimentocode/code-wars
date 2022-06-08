@@ -15,19 +15,17 @@
 def anagrams(word, words):
     resultWord = {}
     resultWords = {}
-    if len(words) != len(word):
-        return []
-    else:    
-        for letterWord in word:
-            resultWord[letterWord] = word.count(letterWord)
+    for letterWord in word:
+        resultWord[letterWord] = word.count(letterWord)
 
-        for i,  letterWords in enumerate(words):
-            wordsTemp = {}
-            wordsTemp[letterWords] = words.count(letterWords)
-            resultWords[words[i]] = wordsTemp
+    for i,  wordWords in enumerate(words):
+        wordsTemp = {}
+        for letterWord in wordWords:
+            wordsTemp[letterWord] = wordWords.count(letterWord)
 
+        resultWords[words[i]] = wordsTemp
+    
     print(resultWord)
     print(resultWords)
-    return 0
 
 anagrams('abba', ['aabb', 'abcd', 'bbaa', 'dada'])
