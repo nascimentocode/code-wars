@@ -13,19 +13,19 @@
 # For Go: Empty string slice is expected when there are no anagrams found.
 
 def anagrams(word, words):
-    resultWord = {}
-    resultWords = {}
-    for letterWord in word:
-        resultWord[letterWord] = word.count(letterWord)
+    print(word)
+    for i in word:
+        print(i, "i")
+        print(words)
+        for j in words:
+            print(j, "j")
+            if len(j) != len(word):
+                words.remove(j)
+            else:
+                if i not in j:
+                    words.remove(j)
+                elif word.count(i) != j.count(i):
+                    words.remove(j)
+    return words
 
-    for i,  wordWords in enumerate(words):
-        wordsTemp = {}
-        for letterWord in wordWords:
-            wordsTemp[letterWord] = wordWords.count(letterWord)
-
-        resultWords[words[i]] = wordsTemp
-    
-    print(resultWord)
-    print(resultWords)
-
-anagrams('abba', ['aabb', 'abcd', 'bbaa', 'dada'])
+print(anagrams('laser', ['lazing', 'lazy',  'lacer']))

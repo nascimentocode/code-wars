@@ -24,9 +24,3 @@ def dig_pow(n, p):
         return sum/n
     else:
         return -1
-
-    # has the same function as the code block of code above ↑
-
-    # sum = 0
-    # for i,number in enumerate(str(n)): ← usando o "enumerate" conseguimos percorrer a lista e receber a posição e valor dela juntas
-    #   sum += pow(int(number),p+i)

@@ -6,8 +6,4 @@
 # Input: 123456789 Output: 987654321
 
 def descending_order(num):
-    # listOrderReverse = sorted(str(num), reverse=True)
-    # numReverse = "".join(listOrderReverse)
-    
-    # has the same function as the line of code below ↓
     return int("".join(sorted(str(num), reverse=True)))

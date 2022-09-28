@@ -13,17 +13,3 @@ def find_it(seq):
     for i in seq:
         if seq.count(i)%2!=0:
             return i
-    # has the same function as the code block of code above ↑
-
-    # listOddInt = []
-    # for i in range(len(seq)):
-    #     soma = 0
-    #     for num in seq:
-    #         if seq[i] == num:
-    #             soma+=1
-    #
-    #     if (soma%2)!=0:
-    #         listOddInt.append(seq[i])
-    #
-    # for i in set(listOddInt):
-    #     return i
