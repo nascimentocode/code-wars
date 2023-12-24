@@ -1,1 +1,1 @@
-![Problema do kata](https://prnt.sc/rmAvadauq7Ih)
+<img src="https://prnt.sc/rmAvadauq7Ih" alt="Problema do kata">
