@@ -1,1 +1,1 @@
-![Alt text](image.png)
+![Problema do kata](https://prnt.sc/rmAvadauq7Ih)
