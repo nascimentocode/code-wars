@@ -39,10 +39,7 @@ Este repositório contém minhas soluções para desafios do Codewars. O <a href
    - Dentro de cada pasta de linguagem, você encontrará as pastas correspondentes às dificuldades (por exemplo, `/python/7-kyu`, `/python/6-kyu`, `/outra-linguagem/5-kyu`).
 
 3. **Selecione a Kata:**
-   - Dentro de cada pasta de dificuldade, você encontrará as pastas individuais contendo as soluções para os desafios específicos.
-
-4. **Explore a Solução:**
-   - Cada pasta da kata contém a solução para o desafio específico, junto com qualquer arquivo adicional necessário.
+   - Dentro de cada pasta de dificuldade, você encontrará as soluções para os desafios.
 
 ## Notas Adicionais
 
