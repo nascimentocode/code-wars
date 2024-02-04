@@ -4,9 +4,30 @@ Este repositório contém minhas soluções para desafios do Codewars. O Codewar
 
 ## Estrutura do Repositório
 
-- Cada pasta neste repositório corresponde a um nível de dificuldade no Codewars (por exemplo, Kyu 8, Kyu 7, Kyu 6, etc.).
-- Dentro de cada pasta, você encontrará os desafios organizados por suas respectivas katas.
-
+```ascii
+├── Python/
+│   ├── 7kyu/
+│   │   ├── solution01.py
+│   │   ├── solution02.py
+│   │   └── ...
+│   ├── 6kyu/
+│   │   ├── solution01.py
+│   │   ├── solution02.py
+│   │   └── ...
+│   └── ...
+│
+├── JavaScript/
+│   ├── 7kyu/
+│   │   ├── solution01.js
+│   │   ├── solution02.js
+│   │   └── ...
+│   ├── 6kyu/
+│   │   ├── solution01.js
+│   │   ├── solution02.js
+│   │   └── ...
+│   └── ...
+└── ...
+```
 ## Como Navegar
 
 1. **Escolha o Nível de Dificuldade:**
