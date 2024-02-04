@@ -1,4 +1,4 @@
-# Repositório de Soluções do Codewars
+# Soluções do Codewars
 
 Este repositório contém minhas soluções para desafios do Codewars. O Codewars é uma plataforma online que oferece desafios de programação para ajudar a melhorar suas habilidades de codificação.
 
