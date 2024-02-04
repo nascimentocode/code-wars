@@ -31,8 +31,8 @@ Este repositório contém minhas soluções para desafios do Codewars. O <a href
 ## Como Navegar
 
 1. **Escolha a Linguagem:**
-   - [Python](/python)
-   - [Outra Linguagem](/outra-linguagem)
+   - Python
+   - Outra Linguagem
    - ...
 
 2. **Escolha a Dificuldade:**
