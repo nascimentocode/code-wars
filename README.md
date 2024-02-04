@@ -1,27 +1,27 @@
 # Soluções do Codewars
 
-Este repositório contém minhas soluções para desafios do Codewars. O Codewars é uma plataforma online que oferece desafios de programação para ajudar a melhorar suas habilidades de codificação.
+Este repositório contém minhas soluções para desafios do Codewars. O <a href="https://www.codewars.com">Codewars</a> é uma plataforma online que oferece desafios de programação para ajudar a melhorar suas habilidades de codificação.
 
 ## Estrutura do Repositório
 
 ```ascii
 ├── Python/
-│   ├── 7kyu/
+│   ├── 7-kyu/
 │   │   ├── solution01.py
 │   │   ├── solution02.py
 │   │   └── ...
-│   ├── 6kyu/
+│   ├── 6-kyu/
 │   │   ├── solution01.py
 │   │   ├── solution02.py
 │   │   └── ...
 │   └── ...
 │
 ├── JavaScript/
-│   ├── 7kyu/
+│   ├── 7-kyu/
 │   │   ├── solution01.js
 │   │   ├── solution02.js
 │   │   └── ...
-│   ├── 6kyu/
+│   ├── 6-kyu/
 │   │   ├── solution01.js
 │   │   ├── solution02.js
 │   │   └── ...
@@ -36,7 +36,7 @@ Este repositório contém minhas soluções para desafios do Codewars. O Codewar
    - ...
 
 2. **Escolha a Dificuldade:**
-   - Dentro de cada pasta de linguagem, você encontrará as pastas correspondentes às dificuldades (por exemplo, `/python/kata-8`, `/python/kata-7`, `/outra-linguagem/kata-6`).
+   - Dentro de cada pasta de linguagem, você encontrará as pastas correspondentes às dificuldades (por exemplo, `/python/7-kyu`, `/python/6-kyu`, `/outra-linguagem/5-kyu`).
 
 3. **Selecione a Kata:**
    - Dentro de cada pasta de dificuldade, você encontrará as pastas individuais contendo as soluções para os desafios específicos.
