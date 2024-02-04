@@ -25,6 +25,7 @@ Este repositório contém minhas soluções para desafios do Codewars. O Codewar
 
 - Certifique-se de ler e seguir as diretrizes de contribuição antes de enviar suas alterações.
 - Se você encontrar algum problema ou tiver sugestões, abra uma issue para discutirmos.
+  
 
 Espero que este repositório seja útil para quem estiver interessado em aprimorar suas habilidades de programação no Codewars! 😊
 
