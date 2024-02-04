@@ -41,6 +41,10 @@ Este repositório contém minhas soluções para desafios do Codewars. O <a href
 3. **Selecione a Kata:**
    - Dentro de cada pasta de dificuldade, você encontrará as soluções para os desafios.
 
+## Índice global
+
+Este índice irá ajudá-lo a encontrar todos os katas com um link para o kata.
+
 ## Notas Adicionais
 
 - Certifique-se de ler e seguir as diretrizes de contribuição antes de enviar suas alterações.
