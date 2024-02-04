@@ -30,16 +30,18 @@ Este repositório contém minhas soluções para desafios do Codewars. O Codewar
 ```
 ## Como Navegar
 
-1. **Escolha o Nível de Dificuldade:**
-   - [Kyu 8](/Kyu%208)
-   - [Kyu 7](/Kyu%207)
-   - [Kyu 6](/Kyu%206)
+1. **Escolha a Linguagem:**
+   - [Python](/python)
+   - [Outra Linguagem](/outra-linguagem)
    - ...
 
-2. **Selecione a Kata:**
-   - Dentro de cada nível de dificuldade, você encontrará os desafios separados em pastas individuais. Escolha a pasta da kata que deseja explorar.
+2. **Escolha a Dificuldade:**
+   - Dentro de cada pasta de linguagem, você encontrará as pastas correspondentes às dificuldades (por exemplo, `/python/kata-8`, `/python/kata-7`, `/outra-linguagem/kata-6`).
 
-3. **Explore a Solução:**
+3. **Selecione a Kata:**
+   - Dentro de cada pasta de dificuldade, você encontrará as pastas individuais contendo as soluções para os desafios específicos.
+
+4. **Explore a Solução:**
    - Cada pasta da kata contém a solução para o desafio específico, junto com qualquer arquivo adicional necessário.
 
 ## Notas Adicionais
