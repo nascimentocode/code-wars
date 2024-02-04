@@ -21,10 +21,6 @@ Este repositório contém minhas soluções para desafios do Codewars. O Codewar
 3. **Explore a Solução:**
    - Cada pasta da kata contém a solução para o desafio específico, junto com qualquer arquivo adicional necessário.
 
-## Como Contribuir
-
-- Sinta-se à vontade para contribuir adicionando suas próprias soluções ou melhorando as existentes. Basta abrir uma pull request e eu ficarei feliz em revisar!
-
 ## Notas Adicionais
 
 - Certifique-se de ler e seguir as diretrizes de contribuição antes de enviar suas alterações.
