@@ -45,6 +45,8 @@ Este repositório contém minhas soluções para desafios do Codewars. O <a href
 
 Este índice irá ajudá-lo a encontrar todos os katas com um link para o kata.
 
+Em construção...
+
 ## Notas Adicionais
 
 - Certifique-se de ler e seguir as diretrizes de contribuição antes de enviar suas alterações.
