@@ -7,3 +7,7 @@ A tua tarefa é escrever uma função que recebe uma string e devolve uma nova s
 Por exemplo, a cadeia “Este site é para falhados LOL!” passaria a ser “Ths wbst s fr lsrs LL!”.
 
 **Nota:** para este kata, o `y` não é considerado uma vogal.
+
+---
+
+**[Solução do Desafio](https://github.com/nascimentocode/code-wars/blob/main/JavaScript/7-kyu/Disemvowel%20Trolls/Disemvowel_Trolls.js)**

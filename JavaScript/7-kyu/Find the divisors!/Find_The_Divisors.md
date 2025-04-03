@@ -9,3 +9,7 @@ divisors(12) --> [2, 3, 4, 6]
 divisors(25) --> [5]
 divisors(13) --> "13 is prime"
 ```
+
+---
+
+**[Solução do Desafio](https://github.com/nascimentocode/code-wars/blob/main/JavaScript/7-kyu/Find%20the%20divisors!/Find_The_Divisors.js)**
