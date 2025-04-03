@@ -1,0 +1,2 @@
+* [Disemvowel Trolls](https://github.com/nascimentocode/code-wars/blob/main/JavaScript/7-kyu/Disemvowel%20Trolls/Disemvowel_Trolls.md)
+* [Find the divisors!](https://github.com/nascimentocode/code-wars/blob/main/JavaScript/7-kyu/Find%20the%20divisors!/Find_The_Divisors.md)
